@@ -2,28 +2,27 @@
 
 ![Jogo Da Velha](https://i.ibb.co/WFfr6PN/jogo.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
-## Development server
+## 🔥 Instalação e execução
+  1. Faça um clone desse repositório: ```git clone https://github.com/Alfredosavi/JogoDaVelha-Angular```;
+  2. Entre dentro do diretório: ```cd JogoDaVelha-Angular/```;
+  3. Instale as dependências com: ```yarn install```;
+  4. Rode com ```yarn start``` e acesse ```http://localhost:4200/```.
+    
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## :warning: Observações
+  * This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
-## Code scaffolding
+## ⚡️ Como contribuir
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
-## Build
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+## :memo: Licença
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
